@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Ali Asgar from India<br><br>- 📖 I’m currently a 4th Year CSE Student at Nirma University<br>- 📚 I'm currently learning React Framework<br>- 👯 I’m looking to collaborate on projects related to Computer Vision<br>- 📫 How to reach me: aliasgarpadaria002@gmail.com</p>
+<p align="left">I'm Ali Asgar from India<br><br>- 📖 I’m currently a 4th Year CSE Student at Nirma University<br>- 📚 I'm currently learning React Framework<br>- 👯 I’m looking to collaborate on projects related to Computer Vision and AI/ML<br>- 📫 How to reach me: aliasgarpadaria002@gmail.com</p>
 
 ###
 
