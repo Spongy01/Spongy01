@@ -1,4 +1,9 @@
 <div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 
@@ -27,15 +32,33 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋 I am <span style='color:teal'>Ali Asgar</span></h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Ali Asgar from India<br><br>- 📖 I’m currently a 4th Year CSE Student at Nirma University<br>- 📚 I'm currently learning React Framework<br>- 👯 I’m looking to collaborate on projects related to Computer Vision and AI/ML<br>- 📫 How to reach me: aliasgarpadaria002@gmail.com</p>
+<p align="left">Hi there! I'm <b >Ali Asgar Padaria</b> , a passionate software developer with a strong foundation in Computer Science and Engineering. Currently pursuing my Master's in CS at Stony Brook University, I'm always excited to learn new technologies and tackle challenging problems. My experience spans various domains, from developing Android applications to building middleware solutions and exploring deep learning and blockchain technologies.
+  <br>
+  - 📫 How to reach me: aliasgarpadaria002@gmail.com || aliasgar.padaria@stonybrook.edu
+
+  🚀 **Check These Out:**
+- **[Excel Trader](https://github.com/Spongy01/Excel-Trader):** A Python-based tool for streamlining stock market trading using an Excel interface.
+- **[InterconnectX](https://github.com/Spongy01/InterConnectX):** A middleware solution that bridges communication between REST and SOAP APIs.
+
+
+  💻 **What I Do:**
+- **Languages:** C, C++, Java, Python, JavaScript, Solidity
+- **Frameworks & Tools:** Django, React, Node.js, TensorFlow, Android Studio, Pandas, Numpy
+- **Areas of Interest:** Development, Data Science, Deep Learning
+
+🌱 **Currently Studying:** at Stony Brook University, NY
+- Data Science Fundamentals
+- Computer Vision
+- Fundamentals of Human Computer Interaction
+
+</p>
 
 ###
 
@@ -81,15 +104,17 @@
 
 
 
-# 📊 GitHub Stats:
+<h3 align="left">📊 GitHub Stats: </h3>
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=spongy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=spongy01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spongy01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+</div>
+
 ### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=spongy01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
