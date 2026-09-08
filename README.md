@@ -39,70 +39,45 @@
 
 ###
 
-<p align="left">Hi there! I'm <b >Ali Asgar Padaria</b> , a passionate software developer with a strong foundation in Computer Science and Engineering. Currently pursuing my Master's in CS at Stony Brook University, I'm always excited to learn new technologies and tackle challenging problems. My experience spans various domains, from developing Android applications to building middleware solutions and exploring deep learning and blockchain technologies.
+
+### About Me
+ 
+I'm an MS Computer Science graduate from Stony Brook University (May 2026), based in the Bay Area and currently looking for AI/ML Engineering and Software Engineering roles. My work centers on agentic LLM systems, RAG pipelines, and the infrastructure that makes them reliable in production, not just in a notebook.
+ 
+At CEWIT/Zeblok Computational, I built agents, MCP-based tool servers, and multimodal RAG pipelines.
+ 
   <br>
   - 📫 How to reach me: aliasgarpadaria002@gmail.com || aliasgar.padaria@stonybrook.edu
 
-  🚀 **Check These Out:**
-- **[Excel Trader](https://github.com/Spongy01/Excel-Trader):** A Python-based tool for streamlining stock market trading using an Excel interface.
-- **[InterconnectX](https://github.com/Spongy01/InterConnectX):** A middleware solution that bridges communication between REST and SOAP APIs.
+ 
+
+### What I'm Building
+ 
+**[Conduit](https://github.com/Spongy01/Conduit)** — a production-grade LLM API gateway
+- FastAPI + PostgreSQL (asyncpg) + Redis, fully containerized with Docker Compose
+- Handles 100 RPS at under 2ms p95 gateway overhead, with automatic tier-based fallback routing across providers
+- Distributed rate limiting via an atomic Redis Lua script (token bucket), verified at 1000/450/500 RPM under concurrent load with zero leaks
+- Full observability: 12 Prometheus metrics, OpenTelemetry tracing with 22 spans per request, Grafana dashboards
+
+**[BrokeNoMore](https://github.com/Spongy01/BrokeNoMore)** — an AI agent for personal finance
+- LangGraph orchestration with Gemini function calling and a Text-to-SQL sandbox
+- Layered Router → Service → Repository architecture with a Next.js frontend
+- Langfuse observability, JWT auth, CSV ingestion for Chase/Discover exports
+- 90% tool-routing accuracy and 86.7% overall accuracy across a 30-question eval set
 
 
-  💻 **What I Do:**
-- **Languages:** C, C++, Java, Python, JavaScript, Solidity
-- **Frameworks & Tools:** Django, React, Node.js, TensorFlow, Android Studio, Pandas, Numpy
-- **Areas of Interest:** Development, Data Science, Deep Learning
+### Tech Stack
+ 
+**Languages:** Python, JavaScript, C++, Java
+ 
+**AI/LLM:** LangGraph, RAG pipelines, MCP, Gemini/Claude function calling, Langfuse, QLoRA fine-tuning
+ 
+**Backend & Infra:** FastAPI, Django, PostgreSQL, Redis, Docker, OpenTelemetry, Prometheus, Grafana
+ 
+**Frontend:** React, Next.js
 
-🌱 **Currently Studying:** at Stony Brook University, NY
-- Data Science Fundamentals
-- Computer Vision
-- Fundamentals of Human Computer Interaction
-
+ 
 </p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-
 
 <h3 align="left">📊 GitHub Stats: </h3>
 <div align="center">
@@ -113,8 +88,11 @@
 
 </div>
 
-### ✍️ 
+###
 
 ---
 
-
+<div align="center">
+📫 Open to AI/ML Engineering and Software Engineering opportunities, happy to relocate
+ 
+</div>
